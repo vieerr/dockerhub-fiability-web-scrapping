@@ -1,0 +1,400 @@
+{
+  "fecha": "8/7/2025, 14:48:06",
+  "total_imagenes": 28,
+  "imagenes": [
+    {
+      "título": "mysql",
+      "numero_de_descargas": 1000000000,
+      "estrellas": 15845,
+      "última_actualización": "6 days",
+      "fiabilidad": "Muy fiable ★★★★★"
+    },
+    {
+      "título": "bitnami/mysql",
+      "numero_de_descargas": 100000000,
+      "estrellas": 139,
+      "última_actualización": "9 days",
+      "fiabilidad": "Moderadamente fiable ★★★"
+    },
+    {
+      "título": "circleci/mysql",
+      "numero_de_descargas": 100000000,
+      "estrellas": 31,
+      "última_actualización": "over 3 years",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "bitnamicharts/mysql",
+      "numero_de_descargas": 5000000,
+      "estrellas": 0,
+      "última_actualización": "25 days",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "cimg/mysql",
+      "numero_de_descargas": 10000000,
+      "estrellas": 3,
+      "última_actualización": "6 days",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "ubuntu/mysql",
+      "numero_de_descargas": 500000,
+      "estrellas": 68,
+      "última_actualización": "3 months",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "google/mysql",
+      "numero_de_descargas": 100000,
+      "estrellas": 26,
+      "última_actualización": "over 9 years",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "linuxserver/mysql",
+      "numero_de_descargas": 5000000,
+      "estrellas": 44,
+      "última_actualización": "over 7 years",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "elestio/mysql",
+      "numero_de_descargas": 50000,
+      "estrellas": 1,
+      "última_actualización": "about 2 months",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "docksal/mysql",
+      "numero_de_descargas": 100000,
+      "estrellas": 0,
+      "última_actualización": "about 3 years",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "alpine/mysql",
+      "numero_de_descargas": 100000,
+      "estrellas": 3,
+      "última_actualización": "1 day",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "eclipse/mysql",
+      "numero_de_descargas": 50000,
+      "estrellas": 2,
+      "última_actualización": "almost 8 years",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "datajoint/mysql",
+      "numero_de_descargas": 10000,
+      "estrellas": 2,
+      "última_actualización": "about 4 years",
+      "fiabilidad": "No verificado ★"
+    },
+    {
+      "título": "ilios/mysql",
+      "numero_de_descargas": 10000,
+      "estrellas": 1,
+      "última_actualización": "1 day",
+      "fiabilidad": "No verificado ★"
+    },
+    {
+      "título": "ddev/mysql",
+      "numero_de_descargas": 10000,
+      "estrellas": 1,
+      "última_actualización": "7 months",
+      "fiabilidad": "No verificado ★"
+    },
+    {
+      "título": "mirantis/mysql",
+      "numero_de_descargas": 3300,
+      "estrellas": 0,
+      "última_actualización": "almost 7 years",
+      "fiabilidad": "No verificado ★"
+    },
+    {
+      "título": "corpusops/mysql",
+      "numero_de_descargas": 10000,
+      "estrellas": 0,
+      "última_actualización": "7 months",
+      "fiabilidad": "No verificado ★"
+    },
+    {
+      "título": "mysql/mysql-server",
+      "numero_de_descargas": 100000000,
+      "estrellas": 1032,
+      "última_actualización": "over 2 years",
+      "fiabilidad": "Muy fiable ★★★★★"
+    },
+    {
+      "título": "vulhub/mysql",
+      "numero_de_descargas": 10000,
+      "estrellas": 1,
+      "última_actualización": "over 7 years",
+      "fiabilidad": "No verificado ★"
+    },
+    {
+      "título": "cbioportal/mysql",
+      "numero_de_descargas": 5000,
+      "estrellas": 1,
+      "última_actualización": "about 2 months",
+      "fiabilidad": "No verificado ★"
+    },
+    {
+      "título": "vitess/mysql",
+      "numero_de_descargas": 2100,
+      "estrellas": 1,
+      "última_actualización": "over 1 year",
+      "fiabilidad": "No verificado ★"
+    },
+    {
+      "título": "mysql/mysql-router",
+      "numero_de_descargas": 5000000,
+      "estrellas": 28,
+      "última_actualización": "over 2 years",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "mysql/mysql-cluster",
+      "numero_de_descargas": 5000000,
+      "estrellas": 100,
+      "última_actualización": "over 2 years",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "nasqueron/mysql",
+      "numero_de_descargas": 2200,
+      "estrellas": 1,
+      "última_actualización": "over 3 years",
+      "fiabilidad": "No verificado ★"
+    },
+    {
+      "título": "mysql/mysql-operator",
+      "numero_de_descargas": 500000,
+      "estrellas": 1,
+      "última_actualización": "over 2 years",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "openeuler/mysql",
+      "numero_de_descargas": 275,
+      "estrellas": 0,
+      "última_actualización": "about 1 year",
+      "fiabilidad": "No verificado ★"
+    },
+    {
+      "título": "mysql/ndb-operator",
+      "numero_de_descargas": 6200,
+      "estrellas": 0,
+      "última_actualización": "over 2 years",
+      "fiabilidad": "No verificado ★"
+    },
+    {
+      "título": "jelastic/mysql",
+      "numero_de_descargas": 10000000,
+      "estrellas": 3,
+      "última_actualización": "about 2 months",
+      "fiabilidad": "Poco fiable ★★"
+    }
+  ],
+  "imagenes_ordenadas_por_fiabilidad": [
+    {
+      "título": "mysql",
+      "numero_de_descargas": 1000000000,
+      "estrellas": 15845,
+      "última_actualización": "6 days",
+      "fiabilidad": "Muy fiable ★★★★★"
+    },
+    {
+      "título": "mysql/mysql-server",
+      "numero_de_descargas": 100000000,
+      "estrellas": 1032,
+      "última_actualización": "over 2 years",
+      "fiabilidad": "Muy fiable ★★★★★"
+    },
+    {
+      "título": "bitnami/mysql",
+      "numero_de_descargas": 100000000,
+      "estrellas": 139,
+      "última_actualización": "9 days",
+      "fiabilidad": "Moderadamente fiable ★★★"
+    },
+    {
+      "título": "circleci/mysql",
+      "numero_de_descargas": 100000000,
+      "estrellas": 31,
+      "última_actualización": "over 3 years",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "cimg/mysql",
+      "numero_de_descargas": 10000000,
+      "estrellas": 3,
+      "última_actualización": "6 days",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "jelastic/mysql",
+      "numero_de_descargas": 10000000,
+      "estrellas": 3,
+      "última_actualización": "about 2 months",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "mysql/mysql-cluster",
+      "numero_de_descargas": 5000000,
+      "estrellas": 100,
+      "última_actualización": "over 2 years",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "linuxserver/mysql",
+      "numero_de_descargas": 5000000,
+      "estrellas": 44,
+      "última_actualización": "over 7 years",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "mysql/mysql-router",
+      "numero_de_descargas": 5000000,
+      "estrellas": 28,
+      "última_actualización": "over 2 years",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "bitnamicharts/mysql",
+      "numero_de_descargas": 5000000,
+      "estrellas": 0,
+      "última_actualización": "25 days",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "ubuntu/mysql",
+      "numero_de_descargas": 500000,
+      "estrellas": 68,
+      "última_actualización": "3 months",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "mysql/mysql-operator",
+      "numero_de_descargas": 500000,
+      "estrellas": 1,
+      "última_actualización": "over 2 years",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "google/mysql",
+      "numero_de_descargas": 100000,
+      "estrellas": 26,
+      "última_actualización": "over 9 years",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "alpine/mysql",
+      "numero_de_descargas": 100000,
+      "estrellas": 3,
+      "última_actualización": "1 day",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "docksal/mysql",
+      "numero_de_descargas": 100000,
+      "estrellas": 0,
+      "última_actualización": "about 3 years",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "eclipse/mysql",
+      "numero_de_descargas": 50000,
+      "estrellas": 2,
+      "última_actualización": "almost 8 years",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "elestio/mysql",
+      "numero_de_descargas": 50000,
+      "estrellas": 1,
+      "última_actualización": "about 2 months",
+      "fiabilidad": "Poco fiable ★★"
+    },
+    {
+      "título": "datajoint/mysql",
+      "numero_de_descargas": 10000,
+      "estrellas": 2,
+      "última_actualización": "about 4 years",
+      "fiabilidad": "No verificado ★"
+    },
+    {
+      "título": "ilios/mysql",
+      "numero_de_descargas": 10000,
+      "estrellas": 1,
+      "última_actualización": "1 day",
+      "fiabilidad": "No verificado ★"
+    },
+    {
+      "título": "ddev/mysql",
+      "numero_de_descargas": 10000,
+      "estrellas": 1,
+      "última_actualización": "7 months",
+      "fiabilidad": "No verificado ★"
+    },
+    {
+      "título": "vulhub/mysql",
+      "numero_de_descargas": 10000,
+      "estrellas": 1,
+      "última_actualización": "over 7 years",
+      "fiabilidad": "No verificado ★"
+    },
+    {
+      "título": "corpusops/mysql",
+      "numero_de_descargas": 10000,
+      "estrellas": 0,
+      "última_actualización": "7 months",
+      "fiabilidad": "No verificado ★"
+    },
+    {
+      "título": "mysql/ndb-operator",
+      "numero_de_descargas": 6200,
+      "estrellas": 0,
+      "última_actualización": "over 2 years",
+      "fiabilidad": "No verificado ★"
+    },
+    {
+      "título": "cbioportal/mysql",
+      "numero_de_descargas": 5000,
+      "estrellas": 1,
+      "última_actualización": "about 2 months",
+      "fiabilidad": "No verificado ★"
+    },
+    {
+      "título": "mirantis/mysql",
+      "numero_de_descargas": 3300,
+      "estrellas": 0,
+      "última_actualización": "almost 7 years",
+      "fiabilidad": "No verificado ★"
+    },
+    {
+      "título": "nasqueron/mysql",
+      "numero_de_descargas": 2200,
+      "estrellas": 1,
+      "última_actualización": "over 3 years",
+      "fiabilidad": "No verificado ★"
+    },
+    {
+      "título": "vitess/mysql",
+      "numero_de_descargas": 2100,
+      "estrellas": 1,
+      "última_actualización": "over 1 year",
+      "fiabilidad": "No verificado ★"
+    },
+    {
+      "título": "openeuler/mysql",
+      "numero_de_descargas": 275,
+      "estrellas": 0,
+      "última_actualización": "about 1 year",
+      "fiabilidad": "No verificado ★"
+    }
+  ]
+}
