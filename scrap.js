@@ -79,9 +79,6 @@ function clasificarFiabilidad(imagen) {
       fiabilidad: clasificarFiabilidad(imagen),
     }));
 
-    // console.log("Imágenes de Docker encontradas:");
-    // console.table(resultadosConFiabilidad);
-
     // // Ordenar por fiabilidad (número de descargas + estrellas)
     const resultadosOrdenados = [...resultadosConFiabilidad].sort((a, b) => {
       return (
